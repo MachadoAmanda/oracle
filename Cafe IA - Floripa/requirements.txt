@@ -1,0 +1,11 @@
+oracleagentmemory==26.8.0
+litellm==1.106.1
+oracledb>=3.4,<5
+python-dotenv>=1.1,<2
+pandas>=2.2,<4
+nbformat>=5.10,<6
+nbclient>=0.10,<1
+ipykernel>=6.29,<8
+notebook>=7,<8
+rdflib>=7.1,<8
+langgraph>=1,<2
